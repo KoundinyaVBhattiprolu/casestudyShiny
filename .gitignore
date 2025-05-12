@@ -1,0 +1,11 @@
+# .gitignore
+
+# R project files
+.Rhistory
+.RData
+.Rproj.user/
+.Rapp.history
+
+# Ignore this specific file
+data/.Rapp.history
+data/.DS_Store
